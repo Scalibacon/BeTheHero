@@ -1,0 +1,7 @@
+Padrões de código ESLint, Prettier
+Autenticação JWT
+Styled Components
+
+Deplay:
+    Node: Heroku
+    Front: Netlify
